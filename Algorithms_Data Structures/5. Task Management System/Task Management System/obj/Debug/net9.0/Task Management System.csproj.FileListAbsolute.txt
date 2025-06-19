@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Data structures and algorithms\Task Management System\bin\Debug\net9.0\Task Management System.exe
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Data structures and algorithms\Task Management System\bin\Debug\net9.0\Task Management System.deps.json
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Data structures and algorithms\Task Management System\bin\Debug\net9.0\Task Management System.runtimeconfig.json
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Data structures and algorithms\Task Management System\bin\Debug\net9.0\Task Management System.dll
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Data structures and algorithms\Task Management System\bin\Debug\net9.0\Task Management System.pdb
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Data structures and algorithms\Task Management System\obj\Debug\net9.0\Task Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Data structures and algorithms\Task Management System\obj\Debug\net9.0\Task Management System.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Data structures and algorithms\Task Management System\obj\Debug\net9.0\Task Management System.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Data structures and algorithms\Task Management System\obj\Debug\net9.0\Task Management System.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Data structures and algorithms\Task Management System\obj\Debug\net9.0\Task Management System.dll
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Data structures and algorithms\Task Management System\obj\Debug\net9.0\refint\Task Management System.dll
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Data structures and algorithms\Task Management System\obj\Debug\net9.0\Task Management System.pdb
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Data structures and algorithms\Task Management System\obj\Debug\net9.0\Task Management System.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Data structures and algorithms\Task Management System\obj\Debug\net9.0\ref\Task Management System.dll
