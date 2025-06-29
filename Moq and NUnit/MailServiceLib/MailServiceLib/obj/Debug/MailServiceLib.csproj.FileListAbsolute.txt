@@ -1,0 +1,6 @@
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Moq and NUnit\MailServiceLib\MailServiceLib\bin\Debug\MailServiceLib.dll
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Moq and NUnit\MailServiceLib\MailServiceLib\bin\Debug\MailServiceLib.pdb
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Moq and NUnit\MailServiceLib\MailServiceLib\obj\Debug\MailServiceLib.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Moq and NUnit\MailServiceLib\MailServiceLib\obj\Debug\MailServiceLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Moq and NUnit\MailServiceLib\MailServiceLib\obj\Debug\MailServiceLib.dll
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Moq and NUnit\MailServiceLib\MailServiceLib\obj\Debug\MailServiceLib.pdb
