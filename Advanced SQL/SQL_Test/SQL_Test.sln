@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL_Test5", "SQL_Test\SQL_Test5.csproj", "{ACCF5C05-EB2A-4A37-A83D-14EE31BB9643}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL_TEST1", "SQL_TEST1\SQL_TEST1.csproj", "{54CBE0EA-DBEA-4EC7-A529-63CB8B24E230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL_TEST4", "SQL_TEST4\SQL_TEST4.csproj", "{A7D88B45-E24B-40C5-88F0-F9E129D34EA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACCF5C05-EB2A-4A37-A83D-14EE31BB9643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCF5C05-EB2A-4A37-A83D-14EE31BB9643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCF5C05-EB2A-4A37-A83D-14EE31BB9643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCF5C05-EB2A-4A37-A83D-14EE31BB9643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54CBE0EA-DBEA-4EC7-A529-63CB8B24E230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54CBE0EA-DBEA-4EC7-A529-63CB8B24E230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54CBE0EA-DBEA-4EC7-A529-63CB8B24E230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54CBE0EA-DBEA-4EC7-A529-63CB8B24E230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D88B45-E24B-40C5-88F0-F9E129D34EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D88B45-E24B-40C5-88F0-F9E129D34EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D88B45-E24B-40C5-88F0-F9E129D34EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D88B45-E24B-40C5-88F0-F9E129D34EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {250E5079-8916-4258-89D9-5D9091EE6335}
+	EndGlobalSection
+EndGlobal

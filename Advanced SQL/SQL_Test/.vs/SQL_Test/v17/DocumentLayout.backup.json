@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Advanced SQL\\SQL_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCF5C05-EB2A-4A37-A83D-14EE31BB9643}|SQL_Test\\SQL_Test5.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\advanced sql\\sql_test\\sql_test\\sql5_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCF5C05-EB2A-4A37-A83D-14EE31BB9643}|SQL_Test\\SQL_Test5.csproj|solutionrelative:sql_test\\sql5_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D88B45-E24B-40C5-88F0-F9E129D34EA4}|SQL_TEST4\\SQL_TEST4.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\advanced sql\\sql_test\\sql_test4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D88B45-E24B-40C5-88F0-F9E129D34EA4}|SQL_TEST4\\SQL_TEST4.csproj|solutionrelative:sql_test4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D88B45-E24B-40C5-88F0-F9E129D34EA4}|SQL_TEST4\\SQL_TEST4.csproj|C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Advanced SQL\\SQL_Test\\sql_test4\\sql4_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D88B45-E24B-40C5-88F0-F9E129D34EA4}|SQL_TEST4\\SQL_TEST4.csproj|solutionrelative:sql_test4\\sql4_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D88B45-E24B-40C5-88F0-F9E129D34EA4}|SQL_TEST4\\SQL_TEST4.csproj|C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Advanced SQL\\SQL_Test\\sql_test4\\sql4_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D88B45-E24B-40C5-88F0-F9E129D34EA4}|SQL_TEST4\\SQL_TEST4.csproj|solutionrelative:sql_test4\\sql4_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D88B45-E24B-40C5-88F0-F9E129D34EA4}|SQL_TEST4\\SQL_TEST4.csproj|C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Advanced SQL\\SQL_Test\\sql_test4\\sql4_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D88B45-E24B-40C5-88F0-F9E129D34EA4}|SQL_TEST4\\SQL_TEST4.csproj|solutionrelative:sql_test4\\sql4_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQL5_7.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Advanced SQL\\SQL_Test\\SQL_Test\\SQL5_7.cs",
+              "RelativeDocumentMoniker": "SQL_Test\\SQL5_7.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Advanced SQL\\SQL_Test\\SQL_Test\\SQL5_7.cs",
+              "RelativeToolTip": "SQL_Test\\SQL5_7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:20:20.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQL4_5.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Advanced SQL\\SQL_Test\\SQL_TEST4\\SQL4_5.cs",
+              "RelativeDocumentMoniker": "SQL_TEST4\\SQL4_5.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Advanced SQL\\SQL_Test\\SQL_TEST4\\SQL4_5.cs",
+              "RelativeToolTip": "SQL_TEST4\\SQL4_5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:54:03.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQL4_4.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Advanced SQL\\SQL_Test\\SQL_TEST4\\SQL4_4.cs",
+              "RelativeDocumentMoniker": "SQL_TEST4\\SQL4_4.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Advanced SQL\\SQL_Test\\SQL_TEST4\\SQL4_4.cs",
+              "RelativeToolTip": "SQL_TEST4\\SQL4_4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:52:45.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Advanced SQL\\SQL_Test\\SQL_TEST4\\Program.cs",
+              "RelativeDocumentMoniker": "SQL_TEST4\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Advanced SQL\\SQL_Test\\SQL_TEST4\\Program.cs",
+              "RelativeToolTip": "SQL_TEST4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:49:34.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQL4_1.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Advanced SQL\\SQL_Test\\SQL_TEST4\\SQL4_1.cs",
+              "RelativeDocumentMoniker": "SQL_TEST4\\SQL4_1.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Advanced SQL\\SQL_Test\\SQL_TEST4\\SQL4_1.cs",
+              "RelativeToolTip": "SQL_TEST4\\SQL4_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:29:10.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

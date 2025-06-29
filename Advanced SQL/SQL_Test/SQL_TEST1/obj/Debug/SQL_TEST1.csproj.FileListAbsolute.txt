@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Advanced SQL\SQL_Test\SQL_TEST1\bin\Debug\SQL_TEST1.exe.config
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Advanced SQL\SQL_Test\SQL_TEST1\bin\Debug\SQL_TEST1.exe
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Advanced SQL\SQL_Test\SQL_TEST1\bin\Debug\SQL_TEST1.pdb
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Advanced SQL\SQL_Test\SQL_TEST1\obj\Debug\SQL_TEST1.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Advanced SQL\SQL_Test\SQL_TEST1\obj\Debug\SQL_TEST1.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Advanced SQL\SQL_Test\SQL_TEST1\obj\Debug\SQL_TEST1.exe
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Advanced SQL\SQL_Test\SQL_TEST1\obj\Debug\SQL_TEST1.pdb
+C:\Users\KIIT\Desktop\DN 4.0 Deep Skilling\Advanced SQL\SQL_Test\SQL_TEST1\obj\Debug\SQL_TEST1.exe.config
