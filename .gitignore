@@ -1,1 +1,12 @@
+# Create .gitignore file
+echo "*.vsidx" > .gitignore
+echo ".vs/" >> .gitignore
+echo "bin/" >> .gitignore
+echo "obj/" >> .gitignore
 
+# Add .gitignore first
+git add .gitignore
+
+# Then add your folders
+git add "Advanced SQL"
+git add "Moq and NUnit"
