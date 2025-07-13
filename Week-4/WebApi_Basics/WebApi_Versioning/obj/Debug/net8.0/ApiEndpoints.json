@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "WebApi_Versioning.Controllers.ValuesV1Controller",
+    "Method": "Get",
+    "RelativePath": "api/v1/values",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi_Versioning.Controllers.ValuesV2Controller",
+    "Method": "Get",
+    "RelativePath": "api/v2/values",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

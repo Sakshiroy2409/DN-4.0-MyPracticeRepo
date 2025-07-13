@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Web API Versioning - 2.0",
+    "version": "2.0"
+  },
+  "paths": {
+    "/api/v2/values": {
+      "get": {
+        "tags": [
+          "ValuesV"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

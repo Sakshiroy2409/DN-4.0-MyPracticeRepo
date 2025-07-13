@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "WebApi_CustomModels.Controllers.EmployeeController",
+    "Method": "GetStandard",
+    "RelativePath": "api/Employee/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WebApi_CustomModels.Models.Employee, WebApi_CustomModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApi_CustomModels.Controllers.EmployeeController",
+    "Method": "ThrowError",
+    "RelativePath": "api/Employee/throw",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ]
+  }
+]

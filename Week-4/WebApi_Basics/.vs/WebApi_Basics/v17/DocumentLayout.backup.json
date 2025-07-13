@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2C0A09-4D4F-46F2-A552-8541164334C5}|WebApi_Versioning\\WebApi_Versioning.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_versioning\\controllers\\valuesv2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2C0A09-4D4F-46F2-A552-8541164334C5}|WebApi_Versioning\\WebApi_Versioning.csproj|solutionrelative:webapi_versioning\\controllers\\valuesv2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2C0A09-4D4F-46F2-A552-8541164334C5}|WebApi_Versioning\\WebApi_Versioning.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_versioning\\controllers\\valuesv1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2C0A09-4D4F-46F2-A552-8541164334C5}|WebApi_Versioning\\WebApi_Versioning.csproj|solutionrelative:webapi_versioning\\controllers\\valuesv1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2C0A09-4D4F-46F2-A552-8541164334C5}|WebApi_Versioning\\WebApi_Versioning.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_versioning\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2C0A09-4D4F-46F2-A552-8541164334C5}|WebApi_Versioning\\WebApi_Versioning.csproj|solutionrelative:webapi_versioning\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2C0A09-4D4F-46F2-A552-8541164334C5}|WebApi_Versioning\\WebApi_Versioning.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_versioning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2C0A09-4D4F-46F2-A552-8541164334C5}|WebApi_Versioning\\WebApi_Versioning.csproj|solutionrelative:webapi_versioning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3937651-55B4-428F-806F-D862291670B0}|WebApi_JWTAuth\\WebApi_JWTAuth.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_jwtauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3937651-55B4-428F-806F-D862291670B0}|WebApi_JWTAuth\\WebApi_JWTAuth.csproj|solutionrelative:webapi_jwtauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3937651-55B4-428F-806F-D862291670B0}|WebApi_JWTAuth\\WebApi_JWTAuth.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_jwtauth\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3937651-55B4-428F-806F-D862291670B0}|WebApi_JWTAuth\\WebApi_JWTAuth.csproj|solutionrelative:webapi_jwtauth\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3937651-55B4-428F-806F-D862291670B0}|WebApi_JWTAuth\\WebApi_JWTAuth.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_jwtauth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3937651-55B4-428F-806F-D862291670B0}|WebApi_JWTAuth\\WebApi_JWTAuth.csproj|solutionrelative:webapi_jwtauth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3937651-55B4-428F-806F-D862291670B0}|WebApi_JWTAuth\\WebApi_JWTAuth.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_jwtauth\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3937651-55B4-428F-806F-D862291670B0}|WebApi_JWTAuth\\WebApi_JWTAuth.csproj|solutionrelative:webapi_jwtauth\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3937651-55B4-428F-806F-D862291670B0}|WebApi_JWTAuth\\WebApi_JWTAuth.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_jwtauth\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3937651-55B4-428F-806F-D862291670B0}|WebApi_JWTAuth\\WebApi_JWTAuth.csproj|solutionrelative:webapi_jwtauth\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAF5272-33DE-478A-8CB2-8DAA657ADE49}|WebApi_CRUD\\WebApi_CRUD.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAF5272-33DE-478A-8CB2-8DAA657ADE49}|WebApi_CRUD\\WebApi_CRUD.csproj|solutionrelative:webapi_crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAF5272-33DE-478A-8CB2-8DAA657ADE49}|WebApi_CRUD\\WebApi_CRUD.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAF5272-33DE-478A-8CB2-8DAA657ADE49}|WebApi_CRUD\\WebApi_CRUD.csproj|solutionrelative:webapi_crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAF5272-33DE-478A-8CB2-8DAA657ADE49}|WebApi_CRUD\\WebApi_CRUD.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_crud\\webapi_crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0DAF5272-33DE-478A-8CB2-8DAA657ADE49}|WebApi_CRUD\\WebApi_CRUD.csproj|solutionrelative:webapi_crud\\webapi_crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308F02B-ADC2-4D28-8BEB-283942DE5D56}|WebApi_CustomModels\\WebApi_CustomModels.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_custommodels\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B308F02B-ADC2-4D28-8BEB-283942DE5D56}|WebApi_CustomModels\\WebApi_CustomModels.csproj|solutionrelative:webapi_custommodels\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308F02B-ADC2-4D28-8BEB-283942DE5D56}|WebApi_CustomModels\\WebApi_CustomModels.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_custommodels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B308F02B-ADC2-4D28-8BEB-283942DE5D56}|WebApi_CustomModels\\WebApi_CustomModels.csproj|solutionrelative:webapi_custommodels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308F02B-ADC2-4D28-8BEB-283942DE5D56}|WebApi_CustomModels\\WebApi_CustomModels.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_custommodels\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B308F02B-ADC2-4D28-8BEB-283942DE5D56}|WebApi_CustomModels\\WebApi_CustomModels.csproj|solutionrelative:webapi_custommodels\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308F02B-ADC2-4D28-8BEB-283942DE5D56}|WebApi_CustomModels\\WebApi_CustomModels.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_custommodels\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B308F02B-ADC2-4D28-8BEB-283942DE5D56}|WebApi_CustomModels\\WebApi_CustomModels.csproj|solutionrelative:webapi_custommodels\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308F02B-ADC2-4D28-8BEB-283942DE5D56}|WebApi_CustomModels\\WebApi_CustomModels.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_custommodels\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B308F02B-ADC2-4D28-8BEB-283942DE5D56}|WebApi_CustomModels\\WebApi_CustomModels.csproj|solutionrelative:webapi_custommodels\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308F02B-ADC2-4D28-8BEB-283942DE5D56}|WebApi_CustomModels\\WebApi_CustomModels.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_custommodels\\webapi_custommodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B308F02B-ADC2-4D28-8BEB-283942DE5D56}|WebApi_CustomModels\\WebApi_CustomModels.csproj|solutionrelative:webapi_custommodels\\webapi_custommodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308F02B-ADC2-4D28-8BEB-283942DE5D56}|WebApi_CustomModels\\WebApi_CustomModels.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_custommodels\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B308F02B-ADC2-4D28-8BEB-283942DE5D56}|WebApi_CustomModels\\WebApi_CustomModels.csproj|solutionrelative:webapi_custommodels\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308F02B-ADC2-4D28-8BEB-283942DE5D56}|WebApi_CustomModels\\WebApi_CustomModels.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_custommodels\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B308F02B-ADC2-4D28-8BEB-283942DE5D56}|WebApi_CustomModels\\WebApi_CustomModels.csproj|solutionrelative:webapi_custommodels\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84E784BA-A050-407C-A6B1-490F02FF1F6B}|WebApi_SwaggerAndPostman\\WebApi_SwaggerAndPostman.csproj|c:\\users\\kiit\\desktop\\dn 4.0 deep skilling\\week-4\\webapi_basics\\webapi_swaggerandpostman\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84E784BA-A050-407C-A6B1-490F02FF1F6B}|WebApi_SwaggerAndPostman\\WebApi_SwaggerAndPostman.csproj|solutionrelative:webapi_swaggerandpostman\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesV2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_Versioning\\Controllers\\ValuesV2Controller.cs",
+              "RelativeDocumentMoniker": "WebApi_Versioning\\Controllers\\ValuesV2Controller.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_Versioning\\Controllers\\ValuesV2Controller.cs",
+              "RelativeToolTip": "WebApi_Versioning\\Controllers\\ValuesV2Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:11:00.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesV1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_Versioning\\Controllers\\ValuesV1Controller.cs",
+              "RelativeDocumentMoniker": "WebApi_Versioning\\Controllers\\ValuesV1Controller.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_Versioning\\Controllers\\ValuesV1Controller.cs",
+              "RelativeToolTip": "WebApi_Versioning\\Controllers\\ValuesV1Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:10:19.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigureSwaggerOptions.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_Versioning\\ConfigureSwaggerOptions.cs",
+              "RelativeDocumentMoniker": "WebApi_Versioning\\ConfigureSwaggerOptions.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_Versioning\\ConfigureSwaggerOptions.cs",
+              "RelativeToolTip": "WebApi_Versioning\\ConfigureSwaggerOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:09:25.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_Versioning\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi_Versioning\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_Versioning\\Program.cs",
+              "RelativeToolTip": "WebApi_Versioning\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:08:38.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_JWTAuth\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi_JWTAuth\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_JWTAuth\\Program.cs",
+              "RelativeToolTip": "WebApi_JWTAuth\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAkwE4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:04:12.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_JWTAuth\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "WebApi_JWTAuth\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_JWTAuth\\Controllers\\TestController.cs",
+              "RelativeToolTip": "WebApi_JWTAuth\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:03:39.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_JWTAuth\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApi_JWTAuth\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_JWTAuth\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApi_JWTAuth\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:02:39.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_JWTAuth\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "WebApi_JWTAuth\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_JWTAuth\\Models\\LoginModel.cs",
+              "RelativeToolTip": "WebApi_JWTAuth\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:01:46.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_JWTAuth\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "WebApi_JWTAuth\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_JWTAuth\\Models\\UserModel.cs",
+              "RelativeToolTip": "WebApi_JWTAuth\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:01:12.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CRUD\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApi_CRUD\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CRUD\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApi_CRUD\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:41:01.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CRUD\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApi_CRUD\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CRUD\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApi_CRUD\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:40:07.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebApi_CRUD",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CRUD\\WebApi_CRUD.csproj",
+              "RelativeDocumentMoniker": "WebApi_CRUD\\WebApi_CRUD.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CRUD\\WebApi_CRUD.csproj",
+              "RelativeToolTip": "WebApi_CRUD\\WebApi_CRUD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-13T11:39:27.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CustomModels\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi_CustomModels\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CustomModels\\Program.cs",
+              "RelativeToolTip": "WebApi_CustomModels\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:27:02.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CustomModels\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "WebApi_CustomModels\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CustomModels\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "WebApi_CustomModels\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:25:49.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CustomModels\\Filters\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "WebApi_CustomModels\\Filters\\CustomAuthFilter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CustomModels\\Filters\\CustomAuthFilter.cs",
+              "RelativeToolTip": "WebApi_CustomModels\\Filters\\CustomAuthFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:25:27.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CustomModels\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApi_CustomModels\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CustomModels\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApi_CustomModels\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:23:24.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CustomModels\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "WebApi_CustomModels\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CustomModels\\Models\\Skill.cs",
+              "RelativeToolTip": "WebApi_CustomModels\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:21:46.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CustomModels\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebApi_CustomModels\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CustomModels\\Models\\Department.cs",
+              "RelativeToolTip": "WebApi_CustomModels\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:21:27.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CustomModels\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApi_CustomModels\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CustomModels\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApi_CustomModels\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:21:03.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebApi_CustomModels",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CustomModels\\WebApi_CustomModels.csproj",
+              "RelativeDocumentMoniker": "WebApi_CustomModels\\WebApi_CustomModels.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_CustomModels\\WebApi_CustomModels.csproj",
+              "RelativeToolTip": "WebApi_CustomModels\\WebApi_CustomModels.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-13T11:19:27.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_SwaggerAndPostman\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "WebApi_SwaggerAndPostman\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN 4.0 Deep Skilling\\Week-4\\WebApi_Basics\\WebApi_SwaggerAndPostman\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "WebApi_SwaggerAndPostman\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:06:12.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
